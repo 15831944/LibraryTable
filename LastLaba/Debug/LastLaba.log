@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  MyForm.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  LastLaba.vcxproj -> C:\Users\Drinker\documents\visual studio 2015\Projects\LastLaba\Debug\LastLaba.exe
+  LastLaba.vcxproj -> C:\Users\Drinker\documents\visual studio 2015\Projects\LastLaba\Debug\LastLaba.pdb (Partial PDB)
